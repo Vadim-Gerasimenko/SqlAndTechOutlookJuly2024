@@ -1,0 +1,84 @@
+[
+  {
+    "russianName": "Россия",
+    "englishName": "Russia",
+    "countryCode": "RUS",
+    "currencyCode": 643,
+    "cities": [
+      {
+        "russianName": "Москва",
+        "englishName": "Moscow",
+        "population": 13149803
+      },
+      {
+        "russianName": "Санкт-Петербург",
+        "englishName": "Saint-Petersburg",
+        "population": 5597763
+      },
+      {
+        "russianName": "Новосибирск",
+        "englishName": "Novosibirsk",
+        "population": 1633851
+      }
+    ]
+  },
+  {
+    "russianName": "Беларусь",
+    "englishName": "Belarus",
+    "countryCode": "BLR",
+    "currencyCode": 933,
+    "cities": [
+      {
+        "russianName": "Минск",
+        "englishName": "Minsk",
+        "population": 1992862
+      },
+      {
+        "russianName": "Гродно",
+        "englishName": "Grodno",
+        "population": 361115
+      }
+    ]
+  },
+  {
+    "russianName": "Таиланд",
+    "englishName": "Thailand",
+    "countryCode": "THA",
+    "currencyCode": 764,
+    "cities": [
+      {
+        "russianName": "Бангкок",
+        "englishName": "Bangkok",
+        "population": 8280940
+      },
+      {
+        "russianName": "Пхукет",
+        "englishName": "Phuket",
+        "population": 360905
+      },
+      {
+        "russianName": "Паттайя",
+        "englishName": "Pattaya",
+        "population": 115840
+      }
+    ]
+  },
+  {
+    "russianName": "Венгрия",
+    "englishName": "Hungary",
+    "countryCode": "HUN",
+    "currencyCode": 348,
+    "cities": [
+      {
+        "russianName": "Будапешт",
+        "englishName": "Budapest",
+        "population": 1744680
+      },
+      {
+        "russianName": "Мишкольц",
+        "englishName": "Miskolc",
+        "population": 172637
+      }
+    ]
+  }
+]
